@@ -5,7 +5,8 @@
 
 body {
     font-family: 'Inter';
-    font-size: clamp(14px, 2.5vw, 18px)
+    font-size: clamp(14px, 2.5vw, 18px);
+    height: 100%;
 }
 
 .container {

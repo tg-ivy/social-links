@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/tg-ivy/social-links)
-- Live Site URL: [Add live site URL here](https://tg-ivy.github.io/social-links/)
+- Solution URL: [https://www.frontendmentor.io/solutions/social-links-profile-utilising-flexbox-jkIYz1tdXR](https://github.com/https://www.frontendmentor.io/solutions/social-links-profile-utilising-flexbox-jkIYz1tdXR)
+- Live Site URL: [https://tg-ivy.github.io/social-links/](https://tg-ivy.github.io/social-links/)
 
 ## My process
 
