@@ -3,10 +3,12 @@
     src: url(./assets/fonts/Inter-VariableFont_slnt\,wght.ttf)  format('truetype');
 }
 
-body {
+html, body {
     font-family: 'Inter';
     font-size: clamp(14px, 2.5vw, 18px);
     height: 100%;
+    margin: 0 auto;
+    padding: 0;
 }
 
 .container {
@@ -15,7 +17,6 @@ body {
     align-items: center;
     background-color: #141414;
     height: 100%;
-    padding: 50px;
 }
 
 .content-box {
@@ -23,10 +24,8 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: min(400px, 80vw);
     background-color: #1f1f1f;
-    padding-top: 40px;
-    padding-bottom: 40px;
+    padding: 20px;
     border-radius: 15px;
 }
 
